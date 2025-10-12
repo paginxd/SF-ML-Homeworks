@@ -62,6 +62,8 @@ All numbers are generated automatically within the program.
 - The program successfully finds the random number.  
 - The console displays the number of attempts required.  
 
+:arrow_up: [Back to top](#table-of-contents)
+
 ---
 
 ## Conclusions
