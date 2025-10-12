@@ -1,2 +1,9 @@
-# SF-ML-Homeworks
-Homeworks and projects for the Machine Learning course at SkillFactory. Created and maintained by Denis Pagin.
+# My data science projects
+
+## Projects
+
+* [Project 0. Game: Guess the number]()
+* [Project 1. _________](___)
+* [Project 2. _________](___)
+
+## Resume links
